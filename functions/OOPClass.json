@@ -1,0 +1,12 @@
+{
+  "name": "OOPClass",
+  "code": "class C: pass",
+  "version": 1,
+  "description": "desc",
+  "description_en": null,
+  "description_jp": null,
+  "tags": [],
+  "dependencies": [],
+  "quality_score": 100,
+  "updated_at": "2026-02-19T21:15:14.523144"
+}
