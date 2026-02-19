@@ -1,0 +1,12 @@
+{
+  "name": "test_lock_func",
+  "code": "\nimport wikipedia\n\ndef get_summary(title):\n    try:\n        return wikipedia.summary(title, sentences=1)\n    except:\n        return \"Error\"\n    ",
+  "version": 3,
+  "description": "A function that tests requests and locking.",
+  "description_en": null,
+  "description_jp": null,
+  "tags": [],
+  "dependencies": [],
+  "quality_score": 75,
+  "updated_at": "2026-02-19T21:06:41.318679"
+}

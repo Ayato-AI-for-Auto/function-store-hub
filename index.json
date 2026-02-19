@@ -9,6 +9,13 @@
     ]
   },
   {
+    "name": "broken_sum",
+    "version": 1,
+    "description_en": null,
+    "description_jp": null,
+    "tags": []
+  },
+  {
     "name": "sync_test_func",
     "version": 3,
     "description_en": null,
@@ -17,5 +24,12 @@
       "test",
       "sync"
     ]
+  },
+  {
+    "name": "test_lock_func",
+    "version": 3,
+    "description_en": null,
+    "description_jp": null,
+    "tags": []
   }
 ]

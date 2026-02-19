@@ -1,0 +1,12 @@
+{
+  "name": "broken_sum",
+  "code": "import os\ndef sum_bad(a, b):\n    unused = 123\n    return a + b",
+  "version": 1,
+  "description": "A function with lint errors",
+  "description_en": null,
+  "description_jp": null,
+  "tags": [],
+  "dependencies": [],
+  "quality_score": 100,
+  "updated_at": "2026-02-19T21:06:41.322119"
+}
