@@ -1,0 +1,14 @@
+{
+  "name": "async_test_func",
+  "code": "\nimport os\ndef bad_function():\n    x = 1\n    return x\n    ",
+  "version": 10,
+  "description": "A function to test async scoring",
+  "description_en": null,
+  "description_jp": null,
+  "tags": [
+    "test"
+  ],
+  "dependencies": [],
+  "quality_score": 81,
+  "updated_at": "2026-02-19T20:20:43.257655"
+}

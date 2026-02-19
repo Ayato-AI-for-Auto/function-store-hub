@@ -1,5 +1,14 @@
 [
   {
+    "name": "async_test_func",
+    "version": 10,
+    "description_en": null,
+    "description_jp": null,
+    "tags": [
+      "test"
+    ]
+  },
+  {
     "name": "sync_test_func",
     "version": 3,
     "description_en": null,
